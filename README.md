@@ -6,7 +6,9 @@ The twist: **the goal is not to grow, it is to slim down.** The snake starts lon
 
 There is no processor and no software here. Every part of the game (movement, collisions, randomness, graphics, the timer and the sound) is digital logic running on the FPGA.
 
-<!-- Add a GIF or a screenshot here, e.g.: ![Gameplay](media/gameplay.gif) -->
+![Gameplay](media/gameplay.gif)
+
+▶️ [Watch the full demo video](media/snake-demo.mp4) (title screen, level select, gameplay and win screen)
 
 ## How to Play
 
